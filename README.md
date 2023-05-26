@@ -33,5 +33,5 @@ Follow the on-screen instructions to play the Rock Paper Scissors game with hand
 This project was developed using the cvzone library for hand tracking. The library provides robust hand detection and tracking capabilities, making it ideal for developing hand gesture-based applications.
 
 ## Authors
-### Usman Malik - @GhostByteX
+##### Usman Malik - @GhostByteX
 
